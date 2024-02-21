@@ -10,4 +10,4 @@ My first website
 - I am so amazing
 
 ## My favorite playlist
-[Playlist]([https://www.example.com](https://www.youtube.com/watch?v=SsUD9mb9Rj4&t=235s)https://www.youtube.com/watch?v=SsUD9mb9Rj4&t=235s)
+[Playlist](https://www.youtube.com/watch?v=SsUD9mb9Rj4&t=235s)
