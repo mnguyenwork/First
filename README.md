@@ -10,4 +10,4 @@ My first website
 - I am so amazing
 
 ## My favorite playlist
-[Playlist](https://drive.google.com/file/d/1D7uDfFgT89x-PkW1gyZOMNvPk-tjRnrf/view?usp=sharing)
+[Playlist](https://www.youtube.com/watch?v=SsUD9mb9Rj4&t=236s)
